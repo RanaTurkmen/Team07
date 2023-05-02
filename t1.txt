@@ -7,10 +7,13 @@ yaz yaz bitmiyor
 v3
 rana branchindeyim 
 v8 oluşturucam
-<<<<<<< HEAD
+
 tekrar push
-=======
+
 
 v3
 
->>>>>>> ab583ae3d0a27ff32c3417b6672dcd8784148e98
+
+v99
+
+
